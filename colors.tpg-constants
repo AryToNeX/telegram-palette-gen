@@ -244,7 +244,7 @@ dialogsVerifiedIconFgActive: dialogsBgActive;                 // [UNTESTED]: cha
 dialogsSendingIconFgActive: colorLighter7_40;                // icona invio messaggio (orologio) attiva
 dialogsSentIconFgActive: dialogsTextFgActive;                // singolo/doppi tick di conferma invio mex attiva
 dialogsUnreadBgActive: dialogsTextFgActive;                  // [UNTESTED]: chat list unread badge background for not muted chat for current (active) chat
-dialogsUnreadBgMutedActive: colorLighter7_40;                // [UNTESTED]: chat list unread badge background for muted chat for current (active) chat
+dialogsUnreadBgMutedActive: colorDarker7_40;                // chat list unread badge background for muted chat for current (active) chat
 dialogsUnreadFgActive: colorLighter7_40;                     // [UNTESTED]: chat list unread badge text for current (active) chat
 
 // Dialogs ripple
